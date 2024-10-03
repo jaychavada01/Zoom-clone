@@ -1,6 +1,7 @@
 # Zoom: Video Calling Application
 
-![alt text](thumbnail.png)
+![thumbnail](https://github.com/user-attachments/assets/9a0535c5-bb23-46be-abf9-0c6b370f6f0b)
+
 <h3 align="center">Zoom Clone</h3>
 
 ## ⚙️ Tech Stack
