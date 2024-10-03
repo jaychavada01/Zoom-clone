@@ -47,7 +47,7 @@ Follow these steps to set up the project locally on your machine.
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/jaychavada01/zoom-clone.git
+git clone https://github.com/jaychavada01/Zoom-clone.git
 cd zoom-clone
 ```
 
