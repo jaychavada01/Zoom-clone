@@ -4,8 +4,13 @@
 
 <h3 align="center">Zoom Clone</h3>
 
-## ⚙️ Tech Stack
+  <div align="center">
+    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
 
+## ⚙️ Tech Stack
 
 - Next.js
 - TypeScript
@@ -15,7 +20,6 @@
 - Tailwind CSS
 
 ## 🔋 Features
-
 
 👉 **Authentication**: Implements authentication and authorization features using Clerk, allowing users to securely log in via social sign-on or traditional email and password methods, while ensuring appropriate access levels and permissions within the platform.
 
@@ -39,7 +43,7 @@
 
 👉 **Responsive Design**: Follows responsive design principles to ensure optimal user experience across devices, adapting seamlessly to different screen sizes and resolutions.
 
-and many more, including code architecture and reusability. 
+and many more, including code architecture and reusability.
 
 ## 🤸 Quick Start
 
@@ -75,7 +79,7 @@ NEXT_PUBLIC_STREAM_API_KEY=
 STREAM_SECRET_KEY=
 ```
 
-* You can obtain these credentials by signing up on the [Clerk website](https://clerk.com/) and [getstream website](https://getstream.io/)
+- You can obtain these credentials by signing up on the [Clerk website](https://clerk.com/) and [getstream website](https://getstream.io/)
 
 **Running the Project**
 
