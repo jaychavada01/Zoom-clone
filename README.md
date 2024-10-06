@@ -10,6 +10,11 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
+🌐 Zoom App Link
+To explore the live version of the application, visit the link below:
+
+<div align="center"> <a href="https://zoom-clone-rho-black.vercel.app/" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #000000; color: #ffffff; border-radius: 5px; text-decoration: none; font-weight: bold;">🚀 Launch Zoom App</a> </div>
+
 ## ⚙️ Tech Stack
 
 - Next.js
