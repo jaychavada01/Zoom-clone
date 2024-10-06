@@ -1,15 +1,20 @@
 import type { Metadata } from "next";
 import "./globals.css";
-
-import { Inter } from "next/font/google";
 import { ClerkProvider } from "@clerk/nextjs";
 import { Toaster } from "@/components/ui/toaster";
 
 import "@stream-io/video-react-sdk/dist/css/styles.css";
+import 'react-datepicker/dist/react-datepicker.css'
 
-const inter = Inter({
+import { Poppins } from "next/font/google";
+
+const font = Poppins({
+  weight: ["400", "700"],
+  style: ["normal", "italic"],
   subsets: ["latin"],
+  display: "swap",
 });
+
 
 export const metadata: Metadata = {
   title: "Zoom",
@@ -47,7 +52,7 @@ export default function RootLayout({
           },
         }}
       >
-        <body className={`${inter.className} bg-dark-2`}>
+        <body className={`${font.className} bg-dark-2`}>
           {children}
           <Toaster />
         </body>
